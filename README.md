@@ -2,18 +2,10 @@
 
 ![](https://m.media-amazon.com/images/I/51PkOQXo5CL._SL500_.jpg)
 
-“我們是個移民國家 （We are a nation of immigrants! ）”  -- J. F. Kennedy 總統
-
 大家好， 我是Forrest Sheng Bao, a CS professor at Iowa State University. 我們系在美國所有CS系中排名63.
-爲了證明我是真人，請看[這裏](https://www.cs.iastate.edu/fsb) 我的homepage是 [forrestbao.github.io](forrestbao.github.io) 你也可以向fsb at iastate dot edu發一封email看看我是不是真的。
+爲了證明我是真人，請看[這裏](https://www.cs.iastate.edu/fsb) 我的homepage是 [forrestbao.github.io](http://forrestbao.github.io) 你也可以向fsb at iastate dot edu發一封email看看我是不是真的。現在剛開，所以所有東西就全寫在這個readme裏面了. 
 
-曾博的潤學是non-sense，光讓人潤， 卻不説如何潤，靠什麽潤，比如在美國留學的學費和生活費。一個冰冷的現實是，美國夢不屬於所有人，而僅屬於有錢人和有才人。
-1. 有錢的（ 來美國讀書學費+生活費至少每年4萬美元）
-2. 有本事+運氣的 （來美國和加拿大讀PhD的、出衆的STEM專業MS、極少數本科生、會寫碼合法校外CPT賺足學費+生活費的）
-
-所以我決定自己開個repo講講靠譜的潤學。現在剛開，所以所有東西就全寫在這個readme裏面了. 
-
-**記住，美國夢屬於窮小子**
+**本repo的重點是**：沒錢也能潤美國/加拿大！ 美國/加拿大大學有很多幫教授教學或科研的崗位（分別叫做teaching assistant和research assistant，簡稱TA/RA），對於無力承擔全部學費加生活費的新生，TA/RA offer通常和碩士或博士(PhD)項目的錄取通知一起發放，學校會提供相應證明文件，這樣，你去申請留學簽證時，就無需財務證明，而只要學校的證明文件。一般PhD學生肯定可以拿到RA/TA， STEM專業碩士（MS）生中會有少量RA/TA，極少數能幫教授幹活的本科生也可以得到RA。RA/TA的數量非常龐大，美國一半的PhD學生是外國來的（[美國每年畢業大約10萬PhD](https://www.nsf.gov/nsb/sei/one-pagers/Foreign-Born.pdf)），絕大部分靠RA/TA免費讀書。美國/加拿大大學也有傳統意義上的獎學金(scholarship/fellowship)，那個是白給的錢，無需在校園工作, 但是中獎率比RA/TA少很多。我讀PhD五年，沒花家裏一分錢，第一年fellowship, 第二三年TA, 最後兩年RA. 
 
 
 # 讓我幫你潤
