@@ -26,9 +26,9 @@
 
 # Contact me
 
-forrestbao at {Gmail, Twitter, Telegram} 
+forrestbao at Gmail
 
-我的時間非常寶貴，所以請仔細閲讀如下instructions. 如果你不照做，我保留不理睬你的權力. 
+我的時間非常寶貴，所以請仔細閲讀如下instructions. 如果你不照做，我保留不理睬你的權力. 同時，如果我所知的途徑無法幫你潤，我也只能保持沉默. 
 
 * 請優先提交[issue](https://github.com/forrestbao/Run/issues)，這樣我回答你的時候，其他朋友也能看到答案，且可參與討論. 只有涉及個人隱私的問題（比如，【讓我幫你潤】），再聯係我。
 * 需要【讓我幫你潤】服務的，請提供你的
@@ -36,8 +36,8 @@ forrestbao at {Gmail, Twitter, Telegram}
    * 如果不是高中生，你大學和大學以後的成績單（可以非正式，自己排版的）
    * TOEFL/Duolingo/IELTS和GRE成績，如果你有。
    * 你有多少錢可以用於支付學費和生活費 -- 0元沒問題. 注意，這些錢必須是你現在銀行賬戶超過6個月的存款，切勿和我說你可以把房子賣了來留學。
-* 請不要在多個平臺(Gmail, Twitter, Telegram)給我發相同/高度類似的消息。請保持用一個途徑和我聯係。 
 
+2022-05-30 update： 即日起我只接受Email聯系，請勿通過Telegram或Twitter聯系我.
 
 # FAQs
 
