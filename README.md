@@ -12,14 +12,14 @@
 
 # 讓我幫你潤
 1. 我可以帶你免費做科研在頂級期刊/會議發表論文，在NLP和EDA兩個方向：
-   - (NLP) Text-generation metrics or NLP in bio/med/chem literature
-   - (EDA) ML-driven routing and placement for PCB and IC designs （讓AI設計電路，嗯就像Google那篇被自己人指出有問題的Nature論文一樣）
-   - 當然，如果你有個非常exciting的點子希望我能幫你一起做，歡迎告訴我
+   - (NLP) Text-generation metrics 請看[這個介紹](https://github.com/forrestbao/forrestbao.github.io/blob/main/summarization_metrics.md)
+   - (EDA) ML-driven routing and placement for PCB and IC designs 請看[這個介紹](https://forrestbao.github.io/circuit_routing.html)
+   - 當然，如果你有個非常exciting的點子(在AI/ML/EDA方向, or applied ML in biology/medicine)希望我能幫你一起做，歡迎告訴我
    - 在CS領域，conferences > journals. 
-2. 如果你想來ISU CS讀書，我的lab常年在上面兩個方向招學生，從undergraudate到PhD students. 只要有RA/TA，哪怕是undergraduate，你可以得到全額獎學金：免學費，外加每月工資 -- **免費來美國讀大學（本科）/碩士班/博士班!**
-3. 我的lab和我學生的startup招會做web development的人，詳情見[這裏](https://www.notion.so/nlpdev/Remote-Hiring-People-9df52db7ba624954a58cac93a836b01b) 歡迎遠程或實習. 
+2. 如果你想來ISU CS讀書，我的lab常年在NLP和EDA這兩個方向招學生，從undergraudate到PhD students. 只要有RA/TA，哪怕是undergraduate，你可以得到全額獎學金：免學費，外加每月工資 -- **免費來美國讀大學（本科）/碩士班/博士班!**
+3. (update 2022/10/15 這項服務無限期終止) 我的lab和我學生的startup招會做web development的人，詳情見[這裏](https://www.notion.so/nlpdev/Remote-Hiring-People-9df52db7ba624954a58cac93a836b01b) 歡迎遠程或實習. 
 4. 我可以幫你寫推薦信。 如果你本科畢業于中國不出名的大學（比如像我一樣，從南京郵電大學畢業），或者你的本科專業不是CS想轉碼, 或者你GPA不高，我提供兩個服務：
-   - 一個 coding interview， 如果你是非CS轉碼，那麽難度相當於Leetcode easy. 如果是CS/EE/Math/Stats背景，那麽我會期待你的水平略高於leetcode easy.
+   - (update 2022/10/15 這項服務無限期終止) 一個 coding interview， 如果你是非CS轉碼，那麽難度相當於Leetcode easy. 如果是CS/EE/Math/Stats背景，那麽我會期待你的水平略高於leetcode easy.
    - 一起做個小項目，科研或工程，or just for fun, 比如把Stanza的parsing tree visualize出來. 
    
 
